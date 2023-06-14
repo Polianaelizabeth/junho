@@ -1,0 +1,71 @@
+body{
+    background-color: black;
+    margin-top: 6vw;
+}
+
+h1{
+    text-align: center;
+    font-size: 5.5vw;
+    line-height: 0%;
+    letter-spacing: 1vw;
+}
+h3{
+    font-size: 1.5vw;
+    text-align: center;
+    color: beige;
+    font-style: italic;
+    line-height: 1px;
+    letter-spacing: 0.7vw;
+}
+
+.container{
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    position:absolute;
+    transform: translate(-50%, 50%);
+}
+
+#o{
+    color: red;
+}
+#r{
+    color: #ff7f00;
+}
+#g{
+    color: #ffff00;
+}
+#u{
+    color: #00ff00;
+}
+#l{
+    color: #0000ff;
+}
+#h{
+    color: #4b0082;
+}
+#o2{
+    color: #8f00ff;
+}
+
+button{
+    background-color: aqua;
+    padding: 2vw;
+    border-radius: 20%;
+    font-weight: bolder;
+}
+
+.corles{ background-image: linear-gradient(to right, red, #D9420B, #f28266,  #D648D9,  #A6038B );
+}
+
+.corgay{ background-image: linear-gradient(to right, #00443A, #008471, #00a7d1, #0934AE, #0908A4);
+}
+
+.corbi{ background-image: linear-gradient(to right, #D70270, #8718DE, #0038A8);
+}
+
+.cortrans{ background-image: linear-gradient(to right, #42c1f3f5, #e6788e, #e0abb6, #e6788e, #43c6faf5);
+}
+
+.cormais{ background-image: linear-gradient(to right, #E70000, #FF8C00, #FFEF00, #00811F, #0044FF, #4b0082);
+}
