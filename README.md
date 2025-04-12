@@ -1,16 +1,30 @@
-# Mês do orgulho
-## Introdução
+# 🏳️‍🌈 Projeto Junho – Mês do Orgulho
 
-O objetivo desse projeto é mostrar as bandeiras da comunidade LGBT+.
-Para vê-lo em  funcionamento, acesse o link abaixo:
-https://polianaelizabeth.github.io/junho/
+## 🌈 Descrição
 
-## Tecnologias usadas
+Este projeto foi desenvolvido em celebração ao Mês do Orgulho LGBTQIA+.  
+A proposta é representar, de forma visual e interativa, diferentes bandeiras que simbolizam a diversidade da comunidade LGBTQIA+.
 
-este programa foi feito com:
--Javascript
--HTML
--CSS
+## 🔗 Acesso ao Projeto
 
-## Como funciona?
-Ao acessar o site, será encontrado uma tela com um fundo preto, 5 botões e uma frase. Ao clicar em um dos botões a cor de fundo muda para um degradê nas cores das bandeiras que representam as pessoas LGBTQIA+. Cada um dos 5 botões mostra uma bandeira diferente
+Acesse o projeto online:  
+👉 [https://polianaelizabeth.github.io/junho](https://polianaelizabeth.github.io/junho)
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript
+
+## 🚀 Funcionalidades
+
+- Interface escura com cinco botões interativos.
+- Cada botão aplica um degradê correspondente a uma bandeira LGBTQIA+.
+- Exibição de mensagens relacionadas ao orgulho e à representatividade.
+
+
+## 👩‍💻 Autora
+
+- **Poliana Elizabeth**  
+  [GitHub](https://github.com/Polianaelizabeth)  
+  [LinkedIn](https://www.linkedin.com/in/polianaefsilva)
